@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "add-cpu",
+    "add-gpu",
+]
+resolver = "2"

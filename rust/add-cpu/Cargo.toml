@@ -1,0 +1,13 @@
+[package]
+name = "add-cpu"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cust = "0.3.2"
+nanorand = "0.7.0"
+
+[build-dependencies]
+cuda_builder = "0.3.0"
