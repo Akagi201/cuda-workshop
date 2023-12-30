@@ -9,3 +9,7 @@ cuda codes and notes
 ## CUDA Rust
 
 * <https://github.com/coreylowman/cudarc>
+
+## Nice projects
+
+* <https://github.com/MrSpike63/vanity-eth-address>
