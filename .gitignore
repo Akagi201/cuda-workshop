@@ -256,3 +256,5 @@ target/
 # End of https://www.toptal.com/developers/gitignore/api/rust
 .envrc
 node_modules/
+
+build/
