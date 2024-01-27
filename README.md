@@ -9,6 +9,7 @@ cuda codes and notes
 ## CUDA Rust
 
 * <https://github.com/coreylowman/cudarc>
+* <https://github.com/EmbarkStudios/rust-gpu>
 
 ## Nice projects
 
