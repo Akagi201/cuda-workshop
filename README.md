@@ -15,6 +15,10 @@ cuda codes and notes
 * <https://github.com/EmbarkStudios/rust-gpu>
 * <https://github.com/vosen/ZLUDA>
 
+## GPU Tools
+
+* <https://github.com/Syllo/nvtop>
+
 ## Nice projects
 
 * <https://github.com/MrSpike63/vanity-eth-address>
