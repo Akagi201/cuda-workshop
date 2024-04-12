@@ -1,5 +1,6 @@
 [workspace]
 members = [
-    "hello-cuda"
+    "gpu-device",
+    "hello-cuda",
 ]
 resolver = "2"

@@ -14,10 +14,15 @@ cuda codes and notes
 * <https://github.com/coreylowman/cudarc>
 * <https://github.com/EmbarkStudios/rust-gpu>
 * <https://github.com/vosen/ZLUDA>
+* <https://github.com/Cldfire/nvml-wrapper>
 
 ## GPU Tools
 
 * <https://github.com/Syllo/nvtop>
+
+## CUDA alternatives
+
+* <https://github.com/charles-r-earp/krnl>
 
 ## Nice projects
 
