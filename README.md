@@ -1,6 +1,6 @@
 # cuda-workshop
 
-cuda codes and notes
+cuda/wgpu codes and notes
 
 ## Nice docs
 
@@ -8,6 +8,8 @@ cuda codes and notes
 * <https://github.com/chichieinstein/rustycuda>
 * <https://github.com/jessfraz/advent-of-cuda>
 * <https://github.com/codingonion/awesome-cuda-and-rocm>
+* <https://github.com/googlefonts/compute-shader-101>
+* <https://maxisom.me/posts/applying-5-million-pixel-updates-per-second>
 
 ## CUDA Rust
 
