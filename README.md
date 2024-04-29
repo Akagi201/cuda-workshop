@@ -11,6 +11,11 @@ cuda/wgpu codes and notes
 * <https://github.com/googlefonts/compute-shader-101>
 * <https://maxisom.me/posts/applying-5-million-pixel-updates-per-second>
 
+## Nice books
+
+* <https://webgpufundamentals.org/>
+* <https://sotrh.github.io/learn-wgpu/>
+
 ## CUDA Rust
 
 * <https://github.com/coreylowman/cudarc>
@@ -29,3 +34,8 @@ cuda/wgpu codes and notes
 ## Nice projects
 
 * <https://github.com/MrSpike63/vanity-eth-address>
+
+## GPU dev group
+
+* <https://matrix.to/#/%23wgpu-users:matrix.org>
+* <https://discord.gg/yNtPTb2>
