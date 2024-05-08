@@ -22,6 +22,9 @@ cuda/wgpu codes and notes
 * <https://github.com/EmbarkStudios/rust-gpu>
 * <https://github.com/vosen/ZLUDA>
 * <https://github.com/Cldfire/nvml-wrapper>
+* <https://github.com/jafioti/luminal>
+* <https://github.com/pcwalton/offset-allocator>
+* <https://github.com/ShelbyJenkins/candle_embed>
 
 ## GPU Tools
 
