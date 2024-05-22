@@ -25,6 +25,7 @@ cuda/wgpu codes and notes
 * <https://github.com/jafioti/luminal>
 * <https://github.com/pcwalton/offset-allocator>
 * <https://github.com/ShelbyJenkins/candle_embed>
+* <https://github.com/HigherOrderCO/hvm> - GPU VM for python adn haskell
 
 ## GPU Tools
 
