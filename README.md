@@ -26,6 +26,7 @@ cuda/wgpu codes and notes
 * <https://github.com/pcwalton/offset-allocator>
 * <https://github.com/ShelbyJenkins/candle_embed>
 * <https://github.com/HigherOrderCO/hvm> - GPU VM for python adn haskell
+* <https://github.com/Narsil/bindgen_cuda>
 
 ## GPU Tools
 
@@ -38,6 +39,7 @@ cuda/wgpu codes and notes
 ## Nice projects
 
 * <https://github.com/MrSpike63/vanity-eth-address>
+* <https://github.com/Lyn-liyuan/ndarray-cuda-matmul> - <https://zhuanlan.zhihu.com/p/699764877>
 
 ## GPU dev group
 
