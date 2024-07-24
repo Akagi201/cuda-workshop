@@ -10,6 +10,7 @@ cuda/wgpu codes and notes
 * <https://github.com/codingonion/awesome-cuda-and-rocm>
 * <https://github.com/googlefonts/compute-shader-101>
 * <https://maxisom.me/posts/applying-5-million-pixel-updates-per-second>
+* <https://github.com/NVIDIA/warp> - Python GPU programming
 
 ## Nice books
 
@@ -25,8 +26,12 @@ cuda/wgpu codes and notes
 * <https://github.com/jafioti/luminal>
 * <https://github.com/pcwalton/offset-allocator>
 * <https://github.com/ShelbyJenkins/candle_embed>
-* <https://github.com/HigherOrderCO/hvm> - GPU VM for python adn haskell
+* <https://github.com/HigherOrderCO/hvm> - GPU VM for python and haskell
 * <https://github.com/Narsil/bindgen_cuda>
+
+## CUDA Cpp
+
+* <https://github.com/AnswerDotAI/gpu.cpp>
 
 ## GPU Tools
 
@@ -35,6 +40,7 @@ cuda/wgpu codes and notes
 ## CUDA alternatives
 
 * <https://github.com/charles-r-earp/krnl>
+* <https://docs.scale-lang.com/examples/> - cuda on amd
 
 ## Nice projects
 
