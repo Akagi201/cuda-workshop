@@ -16,6 +16,7 @@ cuda/wgpu codes and notes
 
 * <https://webgpufundamentals.org/>
 * <https://sotrh.github.io/learn-wgpu/>
+* <https://shi-yan.github.io/webgpuunleashed/>
 
 ## CUDA Rust
 
@@ -36,6 +37,7 @@ cuda/wgpu codes and notes
 ## GPU Tools
 
 * <https://github.com/Syllo/nvtop>
+* <https://developer.nvidia.com/dcgm>
 
 ## CUDA alternatives
 
