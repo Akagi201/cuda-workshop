@@ -43,6 +43,7 @@ cuda/wgpu codes and notes
 
 * <https://github.com/charles-r-earp/krnl>
 * <https://docs.scale-lang.com/examples/> - cuda on amd
+* <https://github.com/tracel-ai/cubecl>
 
 ## Nice projects
 
